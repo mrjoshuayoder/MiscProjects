@@ -1,6 +1,6 @@
 ﻿namespace Test22
 {
-    partial class Form1
+    partial class TestForm
     {
         /// <summary>
         ///  Required designer variable.
